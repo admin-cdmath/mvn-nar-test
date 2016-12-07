@@ -3,5 +3,5 @@
 
 DLL_DECL int function(int a) 
 {
-    return a + 1;
+    return a + 2;
 }
